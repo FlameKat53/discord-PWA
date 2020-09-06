@@ -1,6 +1,6 @@
 {
-  "name": "Discord PWA",
-  "short_name": "Discord PWA",
+  "name": "Discord",
+  "short_name": "Discord",
   "icons": [{
     "src": "images/128.png",
       "sizes": "128x128",
